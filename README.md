@@ -8,3 +8,6 @@ How to do ...use github
 // git add <file change>
 // git commit -am "<new commit>"
 // git push origin <branch>
+// git config --global credential.helper store
+// git config --global credential.helper "cache --timeout=18000"
+
