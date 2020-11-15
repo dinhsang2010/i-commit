@@ -1,0 +1,4 @@
+lopHoc= function(){
+    name ='';
+    age='';
+};
